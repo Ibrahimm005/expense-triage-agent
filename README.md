@@ -1,4 +1,3 @@
-Copy everything below this line, down to the line above "STOP HERE":
 Expense Triage Agent
 An AI agent that automatically reviews submitted employee expense reports, auto-approves the ones that follow company policy, and flags risky or non-compliant ones for a human to review.
 Built for the AI Agents: Intensive Vibe Coding Capstone Project (Agents for Business track).
